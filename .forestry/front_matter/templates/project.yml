@@ -30,6 +30,7 @@ fields:
   config:
     color_format: Hex
   label: Background color
+  default: "#000000"
 - type: color
   name: project_fg_color
   config:
